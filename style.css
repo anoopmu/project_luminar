@@ -1,0 +1,22 @@
+#a1{
+    /* transition: 0.2s ease-in ; */
+}
+#a1:hover{
+    transform: translate(0px,-3px);
+    box-shadow: 2px 2px 20px rgb(95, 94, 97);
+}
+.card1:hover{
+    transform: translate(0px, -3px);
+    box-shadow: 2px 2px 20px rgb(95, 94, 97);
+}
+.card2:hover{
+    transform: translate(0px, -3px);
+    box-shadow: 2px 2px 20px rgb(95, 94, 97);
+}.card3:hover{
+    transform: translate(0px, -3px);
+    box-shadow: 2px 2px 20px rgb(95, 94, 97);
+}
+span{
+    color: rgb(173, 120, 179);
+}
+@media()
