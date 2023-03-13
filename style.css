@@ -42,7 +42,8 @@ span{
 }
 @media(max-width:800px){
     .p1{
-        font-size: x-small;
+        font-size: small;
+        color: yellow;
         align-self: auto;
         padding-bottom: 10px;
     }
@@ -52,13 +53,9 @@ span{
         align-self: auto;
     }
 }
-.imgstyle {
-    height: auto;
-    width: 100%;
-  }
 @media(max-width:800px){
     .i2{
-        height: 300px;
+        height: 50%;
     }
 
 }
