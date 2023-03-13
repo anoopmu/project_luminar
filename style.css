@@ -19,7 +19,11 @@
 span{
     color: rgb(173, 120, 179);
 }
-@media(max-width: 800px)
-#a2{
-    font-size: 10px
+@media(max-width:600px){
+    .h1{
+        font-size: small;
+
+    }
+
 }
+   
