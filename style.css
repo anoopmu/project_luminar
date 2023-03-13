@@ -19,11 +19,46 @@
 span{
     color: rgb(173, 120, 179);
 }
-@media(max-width:600px){
+.h1{
+    font-size: xx-large;
+}
+@media(max-width:800px){
     .h1{
-        font-size: small;
-
+        font-size: medium;
+        align-self: auto;
+        padding-top: 30%;
+    }
+}  
+.h2{
+    font-size: x-large;
+}
+@media(max-width:800px){
+    .h2{
+        font-size: medium;
+        align-self: auto;
+    }
+.p1{
+    font-size: larger;
+}
+@media(max-width:800px){
+    .p1{
+        font-size: x-small;
+        align-self: auto;
+        padding-bottom: 10px;
+    }
+}
+@media(max-width:600px){
+    .b1{
+        align-self: auto;
+    }
+}
+.imgstyle {
+    height: auto;
+    width: 100%;
+  }
+@media(max-width:800px){
+    .i2{
+        height: 300px;
     }
 
 }
-   
